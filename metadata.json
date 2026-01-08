@@ -1,0 +1,8 @@
+{
+  "name": "MedPlexus",
+  "description": "Premium marketplace for medical textbooks and professional healthcare equipment in Nigeria. Integrated WhatsApp ordering for seamless delivery.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "telephone": "+2348149434209"
+}
